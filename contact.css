@@ -1,0 +1,96 @@
+
+
+
+.form-container {
+    background-color: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+}
+
+
+h2 {
+    margin-bottom: 20px;
+}
+
+
+.btn {
+    padding: 12px;
+    font-size: 16px;
+}
+
+
+.mb-3 {
+    margin-bottom: 20px;
+}
+
+
+input.form-control {
+    padding: 12px;
+    font-size: 16px;
+}
+
+.form-check-label {
+    font-size: 14px;
+}
+
+
+input.form-control:focus {
+    border-color: #0069d9;
+    box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.25);
+}
+
+
+/* footer  */
+
+footer {
+    background-color: #fefbfb; 
+    color: #0a0a0a; 
+    padding: 30px 0; 
+  }
+  
+  footer h5 {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 15px;
+  }
+  
+  footer ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  footer ul li {
+    margin-bottom: 10px;
+  }
+  
+  footer a {
+    text-decoration: none;
+    color: #bbb;
+    transition: color 0.3s ease;
+  }
+  
+  footer a:hover {
+    color: #fff;
+  }
+  
+  /* Copyright styling */
+  footer .row .col-12 {
+    font-size: 14px;
+  }
+  
+  footer .row .col-12 p {
+    margin: 0;
+  }
+  
+  footer .row .col-12 a {
+    color: #bbb;
+  }
+  
+  footer .row .col-12 a:hover {
+    color: #fff;
+  }
+  
